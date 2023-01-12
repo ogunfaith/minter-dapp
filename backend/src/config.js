@@ -13,7 +13,7 @@ const baseUri = "ipfs://NewUriToReplace"; // This will be replaced automatically
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 50,
+    growEditionSizeTo: 20,
     layersOrder: [
       { name: "(1) Background" },
       { name: "(7) Tree Branch" },
