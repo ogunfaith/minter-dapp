@@ -15,14 +15,14 @@ const layerConfigurations = [
   {
     growEditionSizeTo: 20,
     layersOrder: [
-      { name: "(1) Background" },
-      { name: "(7) Tree Branch" },
-      { name: "(6) Skin" },
-      { name: "(5) Mouth" },
-      { name: "(4) Eye" },
-      { name: "(3) Outline" },
-      { name: "(2) Cap" },
-      { name: "(8) Our Voice" },
+      { name: "Background" },
+      { name: "Tree Branch" },
+      { name: "Skin" },
+      { name: "Mouth" },
+      { name: "Eye" },
+      { name: "Body" },
+      { name: "Cap" },
+      { name: "Medium" },
     ],
   },
 ];
